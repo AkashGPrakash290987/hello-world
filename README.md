@@ -1,7 +1,7 @@
 # hello-world
-Created by Akash G Prakash
+Created by Akash G Prakash..
 ####
-This repository is for practicing the GitHub Flow
+This repository is for practicing the GitHub Flow!
 ####
-Orion Innovation
+@ Orion Innovation
 ####
